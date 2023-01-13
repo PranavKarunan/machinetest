@@ -1,0 +1,30 @@
+.firstPage {
+  display: flex;
+  height: 100vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondPage img {
+  width: 250px;
+  height: 70px;
+}
+
+.secondPage {
+  display: flex;
+  height: 100vh;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.btn {
+    position: absolute;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    right:    0;
+    bottom:   0;
+}
